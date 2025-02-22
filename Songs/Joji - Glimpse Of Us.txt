@@ -1,0 +1,107 @@
+300
+[9p]| |a s
+[wa]| |s d
+[tus]||a||
+[eup]| |
+[9p]| |a s
+[5f]||d||
+[tud]| |a s
+[eup]| |
+[6f] f ff[tu] f ff
+[tu] ds [tu] ddf
+[9g] fdf[tyig]||
+[tyi]||[tyi]||
+[5d] d dd[ryi] d dd
+[ryi] o| [ryi] ssd
+[8f] dsd[tuf]||
+[tu]||[tu]||
+[6f] f ff[tu] f|
+[tuf] ds [tuj]k l
+[9g] fdf[tyig]||
+[tyi]||[tyi]||
+[5d] d d [ryid] ddd
+[ryi] o o[ryid] fg
+[8f]||[tu]||
+[tua]||[tu] s a
+[ep]||a||
+s| |
+[wp]||a||
+g| |f f
+[2g]| g [ig]f a
+[5g]| g [ig] f d
+[wf]| h [wx]| lz
+6lj| u d f
+[2g]| g [ig] f a
+[5g]| g[ig] h j
+[wf]| h [wx]| lz
+6l[0j] e t [ea] [0s]
+[9p] e [yp] pay [es]
+[5a] 9 w a [ws] [9d]
+[wf] d s [wf] d d
+[6p]||s a u
+[9i]| |o
+[5f]||d||
+0 s s|||
+[6f] [0f] [ef]ft [ef] [0f]f
+6 [0d]se t ed[0d]f
+[9g] ef[yd]f[ig] y e
+9 e y i y e
+[5d] [9d] [wd]dr [wd] [9d]d
+5 [9o] w r [wh] [9g]
+[8f] wd[ts]d[uf] t w
+8 w t u t w
+[6f] [0f] [ef]ft [ef] 0
+[6f] [0d]se [tj]kel0
+[9g] ef[yd]f[ig] y e
+9 e y i y e
+[5d] [9d] [wd] [rd] [wd]d9
+[5d] [9o] wo[rd] [wf]g9
+[8f] w t u t w
+[8a] w t u s a
+[ep]||a||
+s| |
+[wp]||a||
+g| |f f
+[2g]| g [ig]f a
+[5g]| g [ig] f d
+[wf]| h [wx]| lz
+6lj| u d f
+[2g]| g [ig] f a
+[5g]| g[ig] h j
+[wf]| h [wx]| lz
+6l[0j] e t [ea] [0s]
+[9p] e [yp] pay [es]
+[5a] 9 w a [ws] [9d]
+[wf] d s [wf] d d
+[6p]||s a u
+[9i]| |o
+[5f]||d||
+[9i]||i u y
+[wi]||s| a
+[wu]||o||
+[eu]||u||
+[9i]||i o p
+[wo]||s| a
+[wu]||[wo]||
+[6p] 0 e t f f
+[2g]| g [ig]f a
+[5g]| g [ig] f d
+[wf]| h [wx]| lz
+6lj| u d f
+[2g]| g [ig] f a
+[5g]| g[ig] h j
+[wf]| h [wx]| lz
+6l[0j] e t [ea] [0s]
+[9p] e [yp] pay [es]
+[5a] 9 w a [ws] [9d]
+[wf] d s [wf] d d
+[6p]||s a u
+[9i]| |o
+[5f]||d| |
+s s||
+[9i]| |
+[5i]| |
+[8o]||[7o]||
+[6o]||y||
+[9i]| |
+[5i]

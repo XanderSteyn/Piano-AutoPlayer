@@ -1,0 +1,241 @@
+200
+[9qey] O p s f h G g f D d S s
+[W9qr] P a s P a s P a o O p o y Y u o
+[8hl] [tuo] [tuo] [gj] [7hl]
+[ryo] [ryogj] [fh] [6gj] [fh] [eti]
+[eti] 5 [wtu] [wtu]
+[4os] [eti] [eti] 3
+[wtu] [af] [wtuos] [2pd] [etI]
+[etI] 5 [ryo] [ryof] g
+[8hl] [tuo] [tuo] [gj] [7hl]
+[ryo] [ryogj] [fh] [6gj] [fh] [eti]
+[eti] 5 [wtu] [wtu]
+[4os] [eti] [eti] [5dg] [sf]
+[wtu] [wtuad] [8tuos] t u
+o s [qtis] t i s o
+[wtos] t o s o [qis]
+[0us] [9ys] [8tuo] t u
+o s [qtis] t i s o
+[wtos] t o s o [qis]
+[0us] [9yos] [8o] [tuo]
+[tuo] [7o] [ryio] [ryo] u
+[6i] u [eti] [eti] 5
+[wtu] [wtu] [4t] [eti]
+[eti] t [3t] [wtu] y [wtu]
+[2y] [etI] [etI] [5o] y
+[wryo] o [ryo] o [8o] [tuo]
+[tuo] 7 [ryo] [ryio] u
+[6i] [etui] t [eti] 5
+[wtu] [wetu] e [4e] [eti]
+[eti] u [5i] [wtu] [wtyu]
+[8t] [tuo] [tuo] 1
+[tuo] [tuof] g [8hl] [tuo]
+[tuo] [gj] [7hl] [ryo] [ryogj] [fh]
+[6gj] [fh] [eti] [eti] 5
+[wtu] [wtu] [4os] [eti]
+[eti] [5dg] [sf] [wtu] [wtuad]
+[8os] [tuo] [tuo] 1
+[tuo] [tuo] 8 [tuo]
+[tuo] 1 [tuo] h [tuoh]
+[8h] [tuoh] [tuoh] [7h]
+[ryog] [ryof] [6g] f [etis]
+[eti] 5 [wtu] [wtus]
+[4s] [etis] [etis] [3s]
+[wtu] [wtud] d [2d] [etI]
+[etI] 5 [ryo] [ryof] g
+[8h] [tuoh] [tuo] h [7h]
+[ryo] [ryog] f [6g] [etif]
+[etif] [5f] [wtu] [wtus]
+[4s] [etis] [eti] f [5g]
+[wtu] f [wtud] [8s] [tuo]
+[tuo] 1 [tuo] [rtyo] r
+[6e] [etu] [etu] e 5
+[wtu] [wrtu] t [$r] e [Qetu]
+[Qetu] 4 [qet] [qet]
+6 [etu] [etu] e 5
+[wtu] [wrtu] t [$r] [Qetu]
+[Qetu] 4 [qet] [qet] w
+5 [wry] [wry] [4oad]
+[wry] [wry] [3psg] [wry]
+[wry] [2adhk] [ryo] [ryo]
+[18o] o [tuo] [tuo] o [7o]
+[ryio] [ryo] u [6i] u [eti] t
+[eti] 5 [wtu] [wtu]
+[4e] [eti] [eti] t [3t]
+[wtu] [wtyu] [2y] [etI]
+[etI] 5 [ryuo] [ryio]
+[8o] [tuo] [tuo] o [7o]
+[ryio] [ryo] i [6i] u [eti]
+[eti] 5 [wtu] [wtu]
+[4e] [eti] [etui] [5i] u
+[wtu] [wtyu] [8t] [tuo]
+[tuo] 1 [tuo] [tuof] g
+[8hl] [tuo] [tuo] [gj] [7hl]
+[ryo] [ryogj] [fh] [6gj] [fh] [eti]
+[eti] 5 [wtu] [wtu]
+[4os] [eti] [eti] [5dg] [sf]
+[wtu] [wtuad] [8tuos] t u
+o s [qtis] t i s o
+[wtos] t o s o [qis]
+[0us] [9ys] [8tuo] t u
+o s [qtis] t i s o
+[wtos] t o s o [qis]
+[0us] [9yos] [8o] [tuo]
+[tuo] o [7o] [ryo] [ryio] u
+[6i] u [eti] [eti] 5
+[wtu] [wtu] [4e] [eti]
+[eti] t [3t] [wtu] y [wtu]
+[2y] [etI] [etI] 5
+[ryo] o [ryo] o [8o] o [tuo]
+[tuo] 7 [ryo] [ryio] u
+[6i] [etui] u [eti] u 5
+[wtu] [wetu] e [4e] [eti]
+[etui] [5i] [wtu] [wtyu]
+[8t] [tuo] [tuo] 1
+[tuo] [tuo] 8 [tuo]
+[tuo] 1 [tuo] h [tuoh]
+[8h] [tuoh] [tuo] h [7h]
+[ryog] [ryo] f [6g] f [etis]
+[eti] 5 [wtu] [wtup] p
+[4p] [etip] [eti] s [3s]
+[wtus] d [wtu] [2d] [etI]
+[etI] 5 [ryo] [ryoh] h
+[8h] [tuoh] [tuo] h [7h]
+[ryog] [ryo] f [6g] [etif] s
+[eti] 5 [wtu] [wtu] o
+[4p] [eti] s [etif] [5g]
+[wtuf] [wtud] [8s] [tuo]
+[tuo] 1 [tuo] [rtyo] r
+[6e] [etu] [etu] e 5
+[wtu] [wrtu] t [$r] e [Qetu]
+[Qetu] 4 [qet] [qet]
+6 [etu] [etu] e 5
+[wtu] [wrtu] t [$r] [Qetu]
+[Qetu] 4 [qet] [qet] w
+5 [wry] [wry] 4
+[wry] [wry] 3 [wry]
+[wry] 2 [wry] [wryo]
+[18o] [tuo] [tuo] o [7o]
+[ryio] [ryuo] [6i] u [eti]
+[eti] 5 [wtu] [wetu]
+[4t] [eti] [eti] t [3t]
+[wtu] y [wtu] [2y] [etI]
+[etI] 5 [ryo] [ryo] o
+[8o] [tuo] [tuo] [7o]
+[ryio] [ryo] u [6i] [eti]
+[eti] [5i] [wtu] [wtu] u
+[4i] [eti] [eti] [5i]
+[wtu] [wtyu] [8t] [tuo]
+[tuo] 1 [tuo] [tuof] g
+[8hl] [tuo] [tuo] [gj] [7hl]
+[ryo] [ryogj] [fh] [6gj] [fh] [eti]
+[eti] 5 [wtu] [wtu]
+[4os] [eti] [eti] [5dg] [sf]
+[wtu] [wtuad] [8os] [tuo]
+[tuo] 1 [tuo] [tuo]
+8 [tuo] [tuo] 1
+[tuo] [tuoh] h [8h] [tuoh]
+[tuo] h [7h] [ryog] [ryof]
+[6g] f [etif] [eti] 5
+[wtu] [wtuf] d [4p] [etis]
+[etis] [3s] [wtus] [wtud]
+[2d] [etI] [etI] 5
+[ryof] [ryog] [8h] [tuoh]
+[tuoh] [7h] [ryog] [ryof]
+[6g] f [etis] [eti] 5
+[wtu] [wtuo] o [4p] [etis]
+[etif] [5g] [wtuf] [wtud]
+[8s] [tuo] [tuo] 1
+[tuo] [ryo] [6p] s d f
+f h [5j] l h f
+[$g] G [dz] [dz] [4l] j
+g s p s [6p] s d f
+f h [5sl] [sl] j g s
+[$dz] [pj] [pj] [4dz]
+[pj] [pj] [6p] s d f
+f h [5j] l h f
+[$g] G [dz] [dz] [4l] j
+g s p s 5 [wry]
+[wry] [4oad] [wry] [wry]
+[3psg] [wry] [wry] [2adhk]
+[ryo] [ryo] [18h] h [tuo]
+[tuo] h [7h] [ryog] [ryo] f
+[6g] f [eti] s [eti] 5
+[wtu] [wtu] [4p] [etis]
+[eti] s [3s] [wtu] [wtud]
+[2d] [etI] [etI] 5
+[ryof] [ryog] [8h] [tuoh]
+[tuo] h [7h] [ryog] [ryo] g
+[6g] f [etis] [eti] 5
+[wtu] [wtuo] [4p] [etis]
+[etif] [5g] f [wtu] [wtud]
+[8s] [tuo] [tuo] 1
+[tuo] [tuof] g [8hl] [tuo]
+[tuo] [gj] [7hl] [ryo] [ryogj] [fh]
+[6gj] [fh] [eti] [eti] 5
+[wtu] [wtu] [4os] [eti]
+[eti] [5dg] [sf] [wtu] [wtuad]
+[8tuos] t u o s [qtis]
+t i s o [wtos] t o
+s o [qis] [0us] [9ys]
+[8tuo] t u o s [qtis]
+t i s o [wtos] t o
+s o [qis] [0us] [9yos] o
+[8o] o [tuo] [tuo] 7
+[ryo] [ryio] u [6i] u [eti]
+[eti] 5 [wtu] [wtu] y
+[4t] [eti] [eti] [3t]
+[wtu] y [wtu] [2y] [etI]
+[etI] 5 [ryo] o [ryo] o
+[8o] [tuo] [tuo] [7o]
+[ryo] [ryio] u [6i] [etui]
+[etui] [5u] [wtu] [wtu] u
+[4i] i [eti] [eti] [5i]
+[wtu] [wtyu] [8t] [tuo]
+[tuo] 1 [uos] [uos]
+8 [osf] [osf] 1
+[sfh] [sfh] h [18h] h [sfh]
+[sfh] [7h] [adgh] [adfh]
+[6g] f [psfg] [psg] [5]
+[osf] [osf] d [4p] [psg]
+[psg] [3s] [osf] [osdf] d
+[2d] [psG] [psG] [5]
+[adfh] [adgh] [18h] [sfh]
+[sfh] [7h] [adgh] [adfh]
+[6g] f [psfg] f [psg] [5]
+[osf] [osf] f [4g] [psg]
+[psg] [5g] [wtuf] [wtud]
+[8s] [tuo] [tuo] 1
+[tuo] [tuo] r [6e] [etu]
+[etu] e 5 [wtu] [wrtu] t
+[$r] e [Qetu] [Qetu] 4
+[qet] [qet] 6 [etu]
+[etu] e 5 [wtu] [wrtu] t
+[$r] [Qetu] [Qetu] 4
+[qet] [qet] w 5 [wry]
+[wry] [4oad] [wry] [wry]
+[3psg] [wry] [wry] [2adhk]
+[ryo] [ryo] [18osfhl] h [tuo]
+[tuo] h [7h] [ryog] [ryo] f
+[6g] f [eti] s [eti] 5
+[wtu] [wtu] [4p] [etis]
+[eti] s [3s] [wtu] [wtud]
+[2d] [etI] [etI] 5
+[ryof] [ryog] [8h] [tuoh]
+[tuo] h [7h] [ryog] [ryo] g
+[6g] f [etis] [eti] 5
+[wtu] [wtuo] [4p] [etis]
+[etif] [5g] f [wtu] [wtud]
+[8s] [tuo] [tuo] 1
+[tuo] [tuof] g [8hl] [tuo]
+[tuo] [gj] [7hl] [ryo] [ryogj] [fh]
+[6gj] [fh] [eti] [eti] 5
+[wtu] [wtu] [4os] [eti]
+[eti] [5dg] [sf] [wtu] [wtuad]
+[8tuos] t u o s [qtis]
+t i s o [wtos] t o
+s o [qis] [0us] [9ys]
+[8tuo] t u o s [qtis]
+t i s o [wtos] t o
+s o [qis] [0us] [9ys]
+[8tuos]

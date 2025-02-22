@@ -1,0 +1,123 @@
+200
+[8wtu] u t [8t] u u [8t] t
+[9wry] y t [9t] y y [9t] t
+[0wtu] u t [0t] u u [0t] t
+[qeti] i t [qt] i i [qt] t
+[wtu] u t [wt] u u [wt] t
+[wry] y t [wt] y y [wt] t
+[6euo] u t [6t] u u [6t] t
+[7wyo] y t [7t] y y [7t] t
+[8wuo] u t [8t] u u [8t] t
+[29yo] y t [2t] y y [2t] t
+[3wuo] u t [3t] u u [3t] t
+[4eio] i t [4t] i i [4t] t
+[4eio] i t [4t] i i [4t] t
+[4eio] i t [4t] i i [4t] t
+[4ei] i t [4t] i i [4ts] t
+[8wtus] u t [8t] u u [8td] [td]
+[9wry] y t [9t] y y [9t] t
+[0wtu] u [ts] [0t] [us] u [0t] [td]
+[qetig] i t [qt] i i [qt] [tf]
+[wtug] u t [wt] u uf[wt]dt
+[wrys] y t [wt] [ys] y [wt] t
+[6eu] u t [6t] u u [6t] t
+[7wy] y t [7t] y y [7ta] t
+[8wtus] u t [8t] u u [8t] t
+[9wrys]dygt [9t] y y [9t] [tf]
+[0wtug] u t [0t] u u [0t] t
+[qetig] iftd[qt] [id] i [qt] [th]
+[wtu] u t [wt] [uh] u [wt] t
+[wry] y t [wt] y y [wt] t
+[wry] [yh] tg[wt]f[yd] y [wt] t
+[6qeu] u [ts] [6t] u u [6t] t
+[7wy] y t [7t] [ya] y [7t] t
+[60eus] u t [6t] u u [6t] t
+[6usf] u t [6tsj] u u [6tfl] t
+[4yipd] y t [4t] y y [4t] t
+[4y] y t [4t] [yps] y [4t] t
+[5yoa] y r [5r] y y [5r] r
+[5yad] y r [5rof] y y [5rah] r
+[6ups] u t [6t] u u [6t] t
+[6u] u t [6t] [yoa] y [6r] r
+[4etp] e q [4q] e e [4q] q
+[4usf] u t [qtsj] u u [qtfl] t
+[2yipd] y t [2t] y y [2t] t
+[2y] y t [2t] [3yos] y [3t] t
+[5yoa] y r [5r] y y [5r] r
+[3rya] r w [3wtp] e e [3wro] w
+[60etp] 0 0 [60t] 0 0 [60t] 0
+[60tp] 0 0 [60u] 0 0 [60p] 0
+[6upsf] 0 t [6psfj] 0 t [6sfjl] t
+[4qyipd] y t [4qt] y y [4qt] t
+[4qy] y t [4qt] [yips] y [4qt] yt
+[5wryoa] y r [5wr] y y [5wr] r
+[5yoad] 9 r [5uoaf] 9 r [5oadh] r
+[6etups] u t [6et] u u [30t] t
+[6eu] u t [6et] [yoa] y [5wr] r
+[4qetip] t e [4qe] t t [4qe] e
+[6upsf] 0 t [6psfj] 0 t [6sfjl] t
+[29yipd] y t [29t] [2y] y [29t] t
+[29y] y t [29t] [3tuos] 8 9 8
+[5wryoa] y r [5wr] y y [5wr] r
+[3ruoa] 7 w [3erup] 7 w [3wruo] w
+[6etup] 0 e 0 [60]6666 6
+[1wtuo]8181 8 18181 8
+18181 8 18181 8
+[1sfhl]818[1ak] [8pj] [1a]8[1oh]8[1oh] 8
+[2idg]9[2ig]92 [9osh] [2oah]929[2s] 9
+[3sfhl]030[3ak] [0pj] [3a]0[3oh]0[3oah] 0
+[4idg]q[4ig]q4 [qusf] [4yad]q4q[4ts] q
+[5sfhl]w5w[5ak] [wpj] [5a]w[5oh]w[5oh] w
+[5idg]w[5ig]w5 [wosh] [5oah]w5w[5s] w
+[6sfhl]e6e[6ak] [epj] [6a]e[6oh]e[6oah] e
+[7idg]r[7ig]r7 [rusf] [7yad]r7r[7ts] r
+[1sfhl]818[1ak] [8pj] [1a]8[1oh]8[1oh] 8
+[2idg]9[2ig]92 [9osh] [2oah]929[2s] 9
+[3sfhl]030[3ak] [0pj] [3a]0[3oh]0[3oah] 0
+[4idg]q[4ig]q4 [qusf] [4yad]q4q[4ts] q
+[5sfhl]w5w[5ak] [wpj] [5a]w[5oh]w[5oh] w
+[5idg]w[5ig]w5 [wosh] [5oah]w5w[5s] w
+[6sfhl]e6e[6ak] [epj] [6a]e[6oh]e[6oah] e
+[7idg]r[7ig]r7 [rusf] [7yad]r7r[7ts] r
+[5w]||s|
+[tos]||d
+[29ypsd]|||
+[30wt]||s||
+[4qtis]|[id] [pg]||f
+[5wosg]| f [id] [us]|
+[59wyos]||aa|
+[60etus]|||
+[7wy]||[ya]|
+[18tus]||sds
+[29yo]|||
+[30wtu]||[us]| [id]
+[4qpg]||t g [yi]fds
+[5w]|[us]|y|t|
+[59wty]||[ry] aa s
+[60eus]||[etp]|
+[7wy]||[ya] s
+[18tus]|||
+[29os][ad][pg]||[of] [sg]
+[38w] s|a p|ofd
+[4qid]|[uh]|y|[th]|
+[5wty]|||
+[59wr]|[ah]|[sg]f[id]|
+[60et]|[us]||
+[7wy]| a[oa]| [is][us]
+[18]|0|e|t [us]
+[29][id][ps]||8|
+[37w]|9|[0ps]|w [ad]
+[48qpg]|t|[7y] g [6i]fds
+[589w]|u|y|t|
+[59wya]||r||
+[60e]|||
+[7wy]||a[ya] s
+[18tus]|||
+[29s]||[ah]|
+[38w]| [pg][of]|[pg]|
+[4q][of]d[ps]||
+[5wt]||g
+[5wypg]||f
+[5waf]|[id] [id]| [ps]|
+[5w]||a[ya] s
+[18tus]

@@ -1,0 +1,113 @@
+240
+[dg] j l x|x|z
+a||zxv z l
+s f l z a x|l
+p f h j|l|g
+[268] j l x|[4jx] 4 [$jz]
+5|5 5 [5z]xv [5z] l
+1 [5f] [0hx] [hz] 7 [5hx] 9 [fl]
+6 3 [8p] o p s|[qetu]
+2 [qey] [69] [qey] 2 [qet] [69qy] 2
+[5wr]|5 5 [5wt] [wy] 5 [wtu]
+1 [5o] 0 [wryo] 7 [5o] [9u] [etp]
+6 [3etp] [8to] [etup] 5 [ts] [38] [qetu]
+2 [qey] [69] [qey] 2 [qet] [69qey] 2
+[5wr] y [5t] [5y] 5 t 5 [wtu]
+1 [5o] 0 [wryo] 7 [5o] [9u] [etp]
+6 3 [8ey] [et] 5 e 2|
+[2g] j [69l] [gjx]|[4gjx] 4 [$jz]
+5|5 5 [5z]xv [5z] l
+1 [5f] [0hx] [hz] 7 [5hx] 9 [fl]
+6 3 [8p] o p s|[qetu]
+2 [qey] [69] [qey] 2 [qet] [69qy] 2
+[5wr]|5 5 [5wt] [wy] 5 [wtu]
+1 [5o] 0 [wryo] 7 [5o] [9u] [etp]
+6 [3etp] [8to] [etup] 5 [ts] [38] [qetu]
+2 [qey] [69] [qey] 2 [qet] [69qey] 2
+[5wr] y [5t] [5y] 5 t 5 [wtu]
+1 [5o] 0 [wryo] 7 [5o] [9u] [etp]
+6 3 [8ey] [et] 5 e [38] [ipsf]
+2 [ipd] [69ipd] [2ips] [ips] 2 [69ipsf] 2
+5 [oad] [5os] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [uos]
+6 [3up] 8 [up] 5 [ups] [38] [ipsf]
+2 [ipd] [69] [ipd] 2 [ips] [69ipd] 2
+[5oa] d [5s] [5od] 5 [os] 5 [osf]
+1 [5od] 0 [od] 7 [5os] 9 [opsf]
+6 3 [8d] s 5 u [38]|
+[2g] j [69l] [gjx]|[4gjx] 4 [$jz]
+5|5 5 [5z]xv [5z] l
+1 [5f] [0hx] [hz] 7 [5hx] 9 [fl]
+6 3 [8p] o p s|[qetu]
+2 [qey] [69] [qey] 2 [qet] [69qy] 2
+[5wr]|5 5 [5wt] [wy] 5 [wtu]
+1 [5o] 0 [wryo] 7 [5o] [9u] [etp]
+6 [3etp] [8to] [etup] 5 [ts] [38] [qetu]
+2 [qey] [69] [qey] 2 [qet] [69qey] 2
+[5wr] y [5t] [5y] 5 t 5 [wtu]
+1 [5o] 0 [wryo] 7 [5o] [9u] [etp]
+6 3 [8ey] [et] 5 e [38] [ipsf]
+2 [ipd] [69ipd] [2ips] [ips] 2 [69ipsf] 2
+5 [oad] [5os] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [uos]
+6 [3up] 8 [up] 5 [ups] [38] [ipsf]
+2 [ipd] [69] [ipd] 2 [ips] [69ipd] 2
+[5oa] d [5s] [5od] 5 [os] 5 [osf]
+1 [5od] 0 [od] 7 [5os] 9 [opsf]
+6 3 [8d] s 5 u [38]|
+[2psgh]|[69]|2 [69]|2
+[5oa]|5 5 [sj]|5|
+[1f] [5s] 0 o [7d] [5a] 9|
+[6s] [3p] 8|[5a] [2o] 7|
+[2etio]|[69]|2 [69]|2
+[5wr]|5 5 [tp]|5|
+[1u] [5t] 0 w [7y] [5r] 9|
+[6t] [3e] 8 f 5 d [38d] s
+[2upd]|[69up] 2 [2yip] [yip] [69] [yip]
+5 [yo] 5 5 [5yo] [yo] 5 p
+1 [5s] 0 s 7 [5d] [9s] f
+6 3 [8f] d [5d] s [38] d
+2 p [69] [ip] 2 [ip] [69ip] [yo]
+5|[5o] [5o] [5p] s 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [uof]
+6 3 [8ud] s 5 u [38] [ipsf]
+2 [ipd] [69ipd] [2ips] [ips] 2 [69ipsf] 2
+5 [oad] [5oas] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [yos]
+6 [3up] 8 [up] 5 [ups] [38] [ipsf]
+2 [ipd] [69] [ipd] 2 [ips] [69ipd] 2
+5 [oad] [5os] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [uof]
+6 3 [8d] [us] 5 u [38] [ipsf]
+2 [ipd] [69ipd] [2ips] [ips] 2 [69ipsf] 2
+5 [oad] [5oas] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [yos]
+6 [3up] 8 [up] 5 [ups] [38] [ipsf]
+2 [ipd] [69] [ipd] 2 [ips] [69ipd] 2
+5 [oad] [5os] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [uof]
+6 3 [8d] [us] 5 u [38] [ipsf]
+2 [ipd] [69ipd] [2ips] [ips] 2 [69ipsf] 2
+5 [oad] [5oas] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [yos]
+6 [3up] 8 [up] 5 [ups] [38] [ipsf]
+2 [ipd] [69] [ipd] 2 [ips] [69ipd] 2
+5 [oad] [5os] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [uof]
+6 3 [8d] [us] 5 u [38] [ipsf]
+2 [ipd] [69ipd] [2ips] [ips] 2 [69ipsf] 2
+5 [oad] [5oas] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [yos]
+6 [3up] 8 [up] 5 [ups] [38] [ipsf]
+2 [ipd] [69] [ipd] 2 [ips] [69ipd] 2
+5 [oad] [5os] [5oad] 5 [os] 5 [uosf]
+1 [5yod] 0 [yod] 7 [5yos] 9 [uof]
+6 3 [8d] [us] 5 u [38] [upsf]
+[9et] d d s s|f|
+[wry] d s d|s|f
+8 [wd] u d 7 [ws] y s
+6 [0p] t p|s|[upsf]
+[9et] d|d|s d|
+[wry] d s d|s|f
+8 [wd] u d 7 [ws] y f
+6 0 [td] s
