@@ -1,7 +1,8 @@
-﻿#SingleInstance Force
+#SingleInstance Force
 SetBatchLines, -1
 global paused := false, lastSong := "", currentPos := 0, totalLength := 0, isPlaying := false, PianoMusic := "", KeyDelay := 100
 
+Gui, +AlwaysOnTop
 Gui, Color, 242424
 Gui, Font, s10, Segoe UI
 
